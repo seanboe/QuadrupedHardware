@@ -2,6 +2,8 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/seanboe/QuadrupedHardware)
 
+#### (This is a test repo that contains the hardware files for my quad project. Most of this stuff can also be found [here](https://github.com/seanboe/QuadrupedKinematics)
+
 A repo that contains hardware files for my quadruped project, including CAD and gerber files. 
 
 ## Quadruped Control Board V1.0
