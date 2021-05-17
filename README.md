@@ -8,7 +8,7 @@ A repo that contains hardware files for my quadruped project, including CAD and 
 
 It's done! Note that I haven't had the chance to test it yet (the board hasn't arrived) and a BOM will be coming shortly.
 
-<img src="QuadrupedHardware/PCBV1-0/layoutV1-0.png" height="500">
+<img src="/QuadrupedHardware/PCBV1-0/layoutV1-0.png" height="500">
 
 
 #### Features:
