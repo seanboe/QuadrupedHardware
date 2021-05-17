@@ -1,6 +1,6 @@
 # QuadrupedHardware
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/seanboe/QuadrupedHardware)
+[![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/seanboe/QuadrupedHardware)
 
 A repo that contains hardware files for my quadruped project, including CAD and gerber files. 
 
