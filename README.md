@@ -24,6 +24,6 @@ It's done! Note that I haven't had the chance to test it yet (the board hasn't a
 - 6 breakout GPIO, including an I2C bus and associated power/ground lines
 
 
-|dlfkjskldfj||sldkfjlsdkjf|
-|---||---|
-|stuff||stuff|
+|dlfkjskldfj|sldkfjlsdkjf|
+|---|---|
+|stuff|stuff|
