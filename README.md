@@ -1,10 +1,6 @@
-# QuadrupedHardware
+# Hardware
 
-[![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/seanboe/QuadrupedHardware)
-
-#### (This is a test repo that contains the hardware files for my quad project. Most of this stuff can also be found [here](https://github.com/seanboe/QuadrupedProject))
-
-A repo that contains hardware files for my quadruped project, including CAD and gerber files. 
+This is where all my custom hardware is posted. Gerbers for control board V1.0 is already available, and CAD files will be released shortly.
 
 ## Quadruped Control Board V1.0
 
@@ -23,7 +19,6 @@ It's done! Note that I haven't had the chance to test it yet (the board hasn't a
 - Battery power/USB power selection for Teensy
 - 6 breakout GPIO, including an I2C bus and associated power/ground lines
 
-
-|dlfkjskldfj|sldkfjlsdkjf|
-|---|---|
-|stuff|stuff|
+*Known issues with v1.0* 😭
+- Holes for header pins are too small to allow them to comfortably fit. You will need to "jam" them in or solder on top of the hole.
+- xt-60 connector +/- is flipped (silkscreen outline is wrong). Simply flip the connector on the board, or solder the wires reverse for the male connector that goes onto the board. 
